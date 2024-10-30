@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Add the blocks and find the total.<br><img width='55%' src='./images/16.jpg'>",
+        "options": [
+            "22",
+            "23",
+            "24",
+            "21"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Find the total by adding the given blocks.<br><img width='55%' src='./images/17.jpg'>",
+        "options": [
+            "24",
+            "23",
+            "25",
+            "22"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Find the total by adding the given blocks.<br><img width='55%' src='./images/18.jpg'>",
+        "options": [
+            "30",
+            "32",
+            "33",
+            "34"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Add the blocks and find the total.<br><img width='55%' src='./images/19.jpg'>",
+        "options": [
+            "35",
+            "33",
+            "32",
+            "34"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Find the total by adding the given blocks.<br><img width='55%' src='./images/20.jpg'>",
+        "options": [
+            "62",
+            "63",
+            "61",
+            "60"
+        ],
+        "correct": 0
+    }
+]
